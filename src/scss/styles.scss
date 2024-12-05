@@ -1,1 +1,20 @@
 @import "bootstrap/scss/bootstrap";
+@import url("http://fonts.googleapis.com/css?family=Oswald:400,300,700");
+.iconoEnlace {
+  width: 3rem;
+}
+.iconoInput {
+  width: 2rem;
+}
+.lineText {
+  height: 0.9rem;
+}
+.containerLogin {
+  width: 40%;
+}
+.iconoLogin {
+  width: 7rem;
+}
+.textTest {
+  font-family: "Oswald", sans-serif !important;
+}
